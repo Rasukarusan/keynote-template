@@ -13,7 +13,7 @@ $ git clone https://github.com/Rasukarusan/keynote-template.git
 
 # Reference
 
-下記サイトのアイコンセットを大いに参考にさせていただいています。
+下記サイトのアイコンセットを大いに参考にさせていただいています。  
 ライセンス等は下記サイトの規約に準ずることにする。
 
 - さくらインターネット
