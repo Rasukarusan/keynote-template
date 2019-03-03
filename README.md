@@ -5,6 +5,8 @@ Keynoteでよく使う図形のまとめ。
 
 You can use figures as my-shape.
 
+![Demo](https://user-images.githubusercontent.com/17779386/53695385-7aa2fc00-3dfe-11e9-9404-f34304f9c76a.png)
+
 # Download
 
 ```sh
