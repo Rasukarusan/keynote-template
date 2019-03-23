@@ -29,6 +29,11 @@ Or right click > devide.
 $ git clone https://github.com/Rasukarusan/keynote-template.git
 ```
 
+# Description
+
+記事を書いた。
+https://www.rasukarusan.com/entry/2019/03/23/225335
+
 # Reference
 
 下記サイトのアイコンセットを大いに参考にさせていただいています。  
