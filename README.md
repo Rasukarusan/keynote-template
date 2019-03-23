@@ -19,6 +19,10 @@ You can edit by parts if you want to chanage figures.
 
 ![part](https://user-images.githubusercontent.com/17779386/54772505-d49f2080-4c4a-11e9-860a-3f11f018874c.png)
 
+Or right click > devide.
+
+![edit](https://user-images.githubusercontent.com/17779386/54866570-c111c800-4db8-11e9-8bc8-75f5e9fd528a.gif)
+
 # Download
 
 ```sh
@@ -34,4 +38,4 @@ $ git clone https://github.com/Rasukarusan/keynote-template.git
 
 http://knowledge.sakura.ad.jp/other/4724/
 
-また、他のサイトの画像等も参考にしているため、商用利用は避け、勉強会等でご利用ください。
+また、他のサイトの画像等も参考にしているため、商用利用は避け、勉強会等でご利用ください。(当たり前ですね)
